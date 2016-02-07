@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	body {
+    background-color: black;
+}
+
+h1, p {
+    color: gold;
+}
+</head>
+<title>
+<body>
+	<h1>King of the Jungle</h1>
+	<p>This is a site dedicated to the patient Lion</p>
+</body>
